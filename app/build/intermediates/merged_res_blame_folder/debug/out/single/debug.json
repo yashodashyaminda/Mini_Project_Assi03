@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.taskmanager.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.taskmanager.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-merged_res-37:/layout_activity_add_edit.xml.flat",
+        "source": "com.example.taskmanager.app-main-39:/layout/activity_add_edit.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-merged_res-37:/layout_item_task.xml.flat",
+        "source": "com.example.taskmanager.app-main-39:/layout/item_task.xml"
+    }
+]

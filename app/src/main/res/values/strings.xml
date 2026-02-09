@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Task Manager</string>
+    <string name="title_add_task">Add New Task</string>
+    <string name="title_edit_task">Edit Task</string>
+    <string name="hint_title">Task Title</string>
+    <string name="hint_description">Task Description</string>
+    <string name="btn_save">Save Task</string>
+    <string name="empty_validation_msg">Please enter a title</string>
+    <string name="delete_msg">Task Deleted</string>
+    <string name="no_tasks_msg">No tasks yet. Tap + to add one!</string>
+</resources>
