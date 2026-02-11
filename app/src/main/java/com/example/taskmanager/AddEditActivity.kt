@@ -31,7 +31,7 @@ class AddEditActivity : AppCompatActivity() {
         } else {
             title = getString(R.string.title_add_task)
         }
-
+        // Save button click
         binding.buttonSave.setOnClickListener {
             saveTask()
         }

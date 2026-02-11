@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Shyaminda\.gradle\caches\transforms-3\6d2ccefbd46df9b3fcbdfb2dbcf4c0be\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-ktx:2.4.2] C:\Users\Shyaminda\.gradle\caches\transforms-3\f32f7a91970c1ebf146473d9f13561de\transformed\jetified-room-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.4.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\0d5282eeb8370e681a87515cd9d4a6ff\transformed\jetified-activity-ktx-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -55,25 +55,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Shyaminda\.gradl
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\0b8c116da2f1305839ec77547e0f9c64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\9411c764ffe86b9f2a6c4c920e27d06b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\0525a178442881d8c59b8e9666a64c34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\ab65a327a0d5c414dee9b189e442c0a7\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\ab65a327a0d5c414dee9b189e442c0a7\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Shyaminda\.gradle\caches\transforms-3\f138fe26d2a05649cdb12d18c7658fde\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -93,45 +93,45 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Shyaminda\.gradle\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\bc8e6d89ec5f01c9b383224d26ccbb88\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:9:9-61
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:9:9-61
 	android:icon
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:7:9-56
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:7:9-56
 	android:allowBackup
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:11:9-49
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:11:9-49
 activity#com.example.taskmanager.MainActivity
-ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:12:9-19:20
 	android:exported
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:15:13-18:29
+ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.example.taskmanager.AddEditActivity
-ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:20:9-23:40
+ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:20:9-23:40
 	android:parentActivityName
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:22:13-55
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:22:13-55
 	android:exported
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml:21:13-44
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml:21:13-44
 uses-sdk
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Shyaminda\.gradle\caches\transforms-3\6d2ccefbd46df9b3fcbdfb2dbcf4c0be\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Shyaminda\.gradle\caches\transforms-3\6d2ccefbd46df9b3fcbdfb2dbcf4c0be\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-ktx:2.4.2] C:\Users\Shyaminda\.gradle\caches\transforms-3\f32f7a91970c1ebf146473d9f13561de\transformed\jetified-room-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
@@ -234,16 +234,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Shyaminda\.gradle\caches\trans
 MERGED from [androidx.print:print:1.0.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\9411c764ffe86b9f2a6c4c920e27d06b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\0525a178442881d8c59b8e9666a64c34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Shyaminda\.gradle\caches\transforms-3\0525a178442881d8c59b8e9666a64c34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shyaminda\Desktop\Mini_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shyaminda\Documents\GitHub\Mini_Project_Assi03\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.4.2] C:\Users\Shyaminda\.gradle\caches\transforms-3\638fc6a7681942c06ecc3c82b03cf547\transformed\room-runtime-2.4.2\AndroidManifest.xml:25:9-28:40
 	android:exported

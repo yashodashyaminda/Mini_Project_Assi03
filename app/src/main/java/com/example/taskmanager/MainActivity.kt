@@ -11,6 +11,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.taskmanager.databinding.ActivityMainBinding
 
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
@@ -36,7 +37,7 @@ class MainActivity : AppCompatActivity() {
             val title = data?.getStringExtra(AddEditActivity.EXTRA_TITLE)
             val description = data?.getStringExtra(AddEditActivity.EXTRA_DESCRIPTION)
             val id = data?.getIntExtra(AddEditActivity.EXTRA_ID, -1)
-
+            //edit task
             if (id != null && id != -1 && title != null && description != null) {
                 val task = Task(id = id, title = title, description = description)
                 taskViewModel.update(task)
@@ -71,6 +72,7 @@ class MainActivity : AppCompatActivity() {
         binding.recyclerView.layoutManager = LinearLayoutManager(this)
         binding.recyclerView.setHasFixedSize(true)
 
+        //Observe tasks from db
         taskViewModel.allTasks.observe(this) { tasks ->
             // Update the cached copy of the tasks in the adapter.
             tasks?.let { 
@@ -78,7 +80,7 @@ class MainActivity : AppCompatActivity() {
                 binding.emptyViewText.visibility = if (it.isEmpty()) View.VISIBLE else View.GONE
             }
         }
-
+        // add task button
         binding.buttonAddNote.setOnClickListener {
             val intent = Intent(this@MainActivity, AddEditActivity::class.java)
             addTaskLauncher.launch(intent)

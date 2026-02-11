@@ -21,7 +21,7 @@ class TaskAdapter(
         val currentTask = getItem(position)
         holder.bind(currentTask)
     }
-
+    //ViewHolder Class
     inner class TaskViewHolder(private val binding: ItemTaskBinding) : RecyclerView.ViewHolder(binding.root) {
         fun bind(task: Task) {
             binding.textViewTitle.text = task.title
